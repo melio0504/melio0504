@@ -1,16 +1,37 @@
-## Hi there 👋
+### Hi there, I'm Romelio! 👋
 
-<!--
-**melio0504/melio0504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Aspiring Full Stack Web Developer | Currently 2nd Year BSIT Student 🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+-  Passionate about **building innovative and dynamic web applications**.  
+-  Currently working on **personal projects** to upskill and gain hands-on experience.  
+-  Committed to **continuous learning** and self-improvement.  
+-  Exploring **backend development** and modern **web technologies**.  
+
+---
+
+## 🎯 Tech Stack Goals
+- **Frontend**: HTML, CSS, Tailwind CSS, JavaScript, React.js, Vue.js, Electron.js  
+- **Backend**: Node.js (Express.js) /  PHP (Laravel)  
+- **Database**: MySQL, PostgreSQL, Firebase, AWS
+- **Tools**: Git, GitHub, VSCode, Linux   
+
+---
+
+## 🚀 Projects & Learning Goals
+- 🏗️ Working on **[BlepNote - A Mental Health Tracker](#)** 🐱   
+
+---
+
+## 📬 Connect with Me
+- 📩 Email: romelioteodoro1005@gmail.com   
+- 🌐 Portfolio: [Coming Soon!]  
+
+---
+
+As of March 15, 2025, all my commits are signed and can be verified using [my public key](public_key.asc?raw=true).
+
+> “The best way to learn is by building.” - Keep coding and creating!
