@@ -13,10 +13,7 @@ Aspiring Full Stack Web Developer | Currently 2nd Year BSIT Student 🎓
 - **Backend**: Node.js (Express.js) /  PHP (Laravel)  
 - **Database**: MySQL, PostgreSQL, MongoDB
 - **DevOps**: Docker, AWS
-- **Tools**: Git, GitHub, VSCode, Linux   
-
-## 🚀 Projects & Learning Goals
-- 🏗️ Working on **[BlepNote - A Mental Health Tracker](https://github.com/melio0504/blepnote)** 🐱   
+- **Tools**: Git, GitHub, VSCode, Linux     
 
 ## 📬 Connect with Me
 - 📩 Email: romelioteodoro1005@gmail.com   
