@@ -2,6 +2,8 @@
 
 Aspiring Full Stack Web Developer | Currently 2nd Year BSIT Student 🎓
 
+![cat dancing](./cat.gif)
+
 ## 🧑‍💻 About Me
 -  Passionate about **building innovative and dynamic web applications**.  
 -  Currently working on **personal projects** to upskill and gain hands-on experience.  
