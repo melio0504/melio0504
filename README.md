@@ -1,8 +1,6 @@
 ![cat dancing](./cat.gif)
 
-## Hi there, my name is Romelio!
-
-Aspiring Full Stack Web Developer | Currently 2nd Year BSIT Student 🎓
+### Aspiring Full Stack Web Developer | Currently 2nd Year BSIT Student 🎓
 
 ## 🧑‍💻 About Me
 -  Passionate about **building innovative and dynamic web applications**.  
