@@ -17,8 +17,4 @@ Aspiring Full Stack Web Developer | Currently 2nd Year BSIT Student 🎓
 - **DevOps**: Docker, AWS
 - **Tools**: Linux, VSCode, Neovim, Git, GitHub, Figma     
 
-## 📬 Connect with Me
-- 📩 Email: romelioteodoro1005@gmail.com   
-- 🌐 Portfolio: [Coming Soon!]  
-
 As of March 15, 2025, all my commits are signed and can be verified using [my public key](public_key.asc?raw=true).
