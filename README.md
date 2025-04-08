@@ -15,7 +15,7 @@ Aspiring Full Stack Web Developer | Currently 2nd Year BSIT Student 🎓
 - **Backend**: Node.js (Express.js) /  PHP (Laravel)  
 - **Database**: MySQL, PostgreSQL, SQLite, MongoDB
 - **DevOps**: Docker, AWS
-- **Tools**: Git, GitHub, VSCode, Linux     
+- **Tools**: Linux, VSCode, Neovim, Git, GitHub, Figma     
 
 ## 📬 Connect with Me
 - 📩 Email: romelioteodoro1005@gmail.com   
