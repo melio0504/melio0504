@@ -11,7 +11,7 @@ Aspiring Full Stack Web Developer | Currently 2nd Year BSIT Student 🎓
 -  Exploring **backend development** and modern **web technologies**.  
 
 ## 🎯 Tech Stack Goals
-- **Frontend**: HTML, CSS, Tailwind CSS, JavaScript, React.js, Vue.js, Electron.js  
+- **Frontend**: HTML, CSS, Tailwind CSS, JavaScript, React.js, Vue.js, Angular, Electron.js  
 - **Backend**: Node.js (Express.js) /  PHP (Laravel)  
 - **Database**: MySQL, PostgreSQL, SQLite, MongoDB
 - **DevOps**: Docker, AWS
