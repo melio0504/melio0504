@@ -11,10 +11,10 @@ Aspiring Full Stack Web Developer | Currently 2nd Year BSIT Student 🎓
 -  Exploring **backend development** and modern **web technologies**.  
 
 ## 🎯 Tech Stack Goals
-- **Frontend**: HTML, CSS, Tailwind CSS, JavaScript, React.js, Vue.js, Angular, Electron.js  
+- **Frontend**: HTML5, CSS3, Sass, Tailwind CSS, JavaScript, TypeScript, React.js, Vue.js  
 - **Backend**: Node.js (Express.js) /  PHP (Laravel)  
 - **Database**: MySQL, PostgreSQL, SQLite, MongoDB
-- **DevOps**: Docker, AWS
-- **Tools**: Linux, VSCode, Neovim, Git, GitHub, Figma     
+- **DevOps**: Docker, AWS, Vercel, Cloudflare
+- **Tools**: Linux (ThinkPad), VSCode, Neovim, Git, GitHub, Figma     
 
 As of March 15, 2025, all my commits are signed and can be verified using [my public key](public_key.asc?raw=true).
