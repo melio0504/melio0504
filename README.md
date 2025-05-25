@@ -17,4 +17,4 @@ Aspiring Full Stack Web Developer | Currently 2nd Year BSIT Student 🎓
 - **DevOps**: Docker, AWS, Vercel, Cloudflare
 - **Tools**: Linux (ThinkPad), VSCode, Neovim, Git, GitHub, Figma     
 
-As of March 15, 2025, all my commits are signed and can be verified using [my public key](public_key.asc?raw=true). 
+As of March 15, 2025, all my commits are signed and can be verified using [my public key](public_key.asc?raw=true).
