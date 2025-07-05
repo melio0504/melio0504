@@ -2,7 +2,7 @@
 
 ## Hi there! My name is Romelio!
 
-Aspiring Full Stack Web Developer | Currently 2nd Year BSIT Student 🎓
+Aspiring Full Stack Web Developer | Currently 3rd Year BSIT Student 🎓
 
 ## 🧑‍💻 About Me
 -  Passionate about **building innovative and dynamic web applications**.  
@@ -15,6 +15,6 @@ Aspiring Full Stack Web Developer | Currently 2nd Year BSIT Student 🎓
 - **Backend**: Node.js (Express.js) /  PHP (Laravel)  
 - **Database**: MySQL, PostgreSQL, SQLite, MongoDB
 - **DevOps**: Docker, AWS, Vercel, Cloudflare
-- **Tools**: Linux (ThinkPad), VSCode, Neovim, Git, GitHub, Figma     
+- **Tools**: Linux, ThinkPad, VSCode, Neovim, Git, GitHub, Figma     
 
 As of March 15, 2025, all my commits are signed and can be verified using [my public key](public_key.asc?raw=true).
