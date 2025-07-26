@@ -1,7 +1,6 @@
 ![cat dancing](./cat.gif)
 
 ## Hi there! My name is Romelio!
-
 Aspiring Full Stack Web Developer | Currently 3rd Year BSIT Student 🎓
 
 ## 🧑‍💻 About Me
@@ -13,7 +12,7 @@ Aspiring Full Stack Web Developer | Currently 3rd Year BSIT Student 🎓
 ## 🎯 Tech Stack Goals
 - **Frontend**: HTML5, CSS3, Sass, Tailwind CSS, JavaScript, TypeScript, React.js, Vue.js
 - **Backend**: Node.js, PHP
-- **Framework**: Express.js, Next.js, Laravel
+- **Framework**: Express.js, Next.js, Angular, Laravel
 - **Database**: MySQL, PostgreSQL, SQLite, MongoDB
 - **DevOps**: Vercel, Cloudflare, AWS, Docker
 - **Tools**: Linux, ThinkPad, VSCode, Neovim, Git, GitHub, Figma
