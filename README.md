@@ -1,20 +1,20 @@
 ![cat dancing](./cat.gif)
 
 ## Hi there! My name is Romelio!
-Aspiring Full Stack Web Developer | Currently 3rd Year BSIT Student 🎓
+Aspiring Full Stack Web Developer | Currently 3rd Year BSIT Student
 
-## 🧑‍💻 About Me
--  Passionate about **building innovative and dynamic web applications**.  
--  Currently working on **personal projects** to upskill and gain hands-on experience.  
--  Committed to **continuous learning** and self-improvement.  
--  Exploring **backend development** and modern **web technologies**.  
+##  About Me
+-  Passionate about building innovative and dynamic web applications.  
+-  Currently working on personal projects to upskill and gain hands-on experience.  
+-  Committed to continuous learning and self-improvement.  
+-  Exploring backend development and modern web technologies.
 
-## 🎯 Tech Stack Goals
-- **Frontend**: HTML5, CSS3, Sass, Tailwind CSS, JavaScript, TypeScript, React.js, Vue.js
+##  Tech Stack Goals
+- **Frontend**: HTML, CSS, Sass, Tailwind CSS, JavaScript, TypeScript, React.js, Vue.js
 - **Backend**: Node.js, PHP
-- **Framework**: Express.js, Next.js, Angular, Laravel
-- **Database**: MySQL, PostgreSQL, SQLite, MongoDB
-- **DevOps**: Vercel, Cloudflare, AWS, Docker
-- **Tools**: Linux, ThinkPad, VSCode, Neovim, Git, GitHub, Figma
+- **Framework**: Express.js, Laravel,  Next.js, Angular 
+- **Database**: PostgreSQL, MySQL, SQLite, MongoDB
+- **DevOps**: Docker, Vercel, Cloudflare, AWS
+- **Tools**: Linux, ThinkPad, VSCode, Vim, Git, GitHub, Figma
 
 As of March 15, 2025, all my commits are signed and can be verified using [my public key](public_key.asc?raw=true).
