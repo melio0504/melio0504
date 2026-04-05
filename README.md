@@ -10,8 +10,8 @@ Aspiring Full Stack Web Developer | Currently 3rd Year BSIT Student
 -  Eager to contribute to open-source projects and collaborate with the community.
 
 ##  Tech Stack Goals
-- **Frontend**: JavaScript, TypeScript, React, Vue.js, Angular, Tailwind CSS, CSS3, HTML5
-- **Backend**: Node.js (Express.js), PHP (Laravel), Python (Django)
+- **Frontend**: JavaScript, TypeScript, React, Vue.js, Angular, Tailwind CSS, CSS, HTML
+- **Backend**: Node.js (Express.js), PHP (Laravel), Ruby (Ruby in Rails), Python (Django)
 - **Database**: PostgreSQL, MySQL/MariaDB, MongoDB
 - **DevOps**: Docker, Kubernetes, Cloudflare, AWS, Vercel, Bash
 - **Tools**: Linux, ThinkPad, Neovim, VSCode, Git, GitHub, Figma
