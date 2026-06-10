@@ -2,21 +2,21 @@
 
 ## Hi there! My name is Romelio
 
-Aspiring Full Stack Web Developer | Currently 4th Year BSIT Student
+Full Stack Web Developer | Currently 4th Year BSIT Student
 
-## About Me
+## A few things about me
 
-- Passionate about building innovative and dynamic web applications.
-- Currently working on personal projects to upskill and gain hands-on experience.
-- Committed to continuous learning and self-improvement.
-- Eager to contribute to open-source projects and collaborate with the community.
+- Linux, Git, and ThinkPad enthusiast.
+- I spend most of my time in terminal. Probably reading man pages lol.
+- I enjoy contributing to open-source projects.
+- Always working on personal projects to learn something new.
 
-## Tech Stack Goals
+## Things I'm tinkering with
 
 - **Frontend**: JavaScript/TypeScript (React, Vue.js, Angular), CSS (Tailwind CSS), HTML
 - **Backend**: Node.js (Express.js), PHP (Laravel), Python (Django), Ruby on Rails
 - **Database**: PostgreSQL, MySQL/MariaDB, SQLite, MongoDB, Redis
 - **DevOps/Cloud**: Bash, Docker, Kubernetes, AWS, Vercel, Railway, Cloudflare, DigitalOcean
-- **Tools**: Linux, Neovim, Git, GitHub, Figma
+- **Tools**: Linux, Neovim, Kitty, Git, GitHub, Figma
 
 As of March 15, 2025, all my commits are signed and can be verified using [my public key](public_key.asc?raw=true).
