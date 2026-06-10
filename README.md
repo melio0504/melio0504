@@ -4,14 +4,14 @@
 
 Full Stack Web Developer | Currently 4th Year BSIT Student
 
-## A few things about me
+### A few things about me
 
 - Linux, Git, and ThinkPad enthusiast.
 - I spend most of my time in terminal. Probably reading man pages lol.
 - I enjoy contributing to open-source projects.
 - Always working on personal projects to learn something new.
 
-## Things I'm tinkering with
+### Things I'm tinkering with
 
 - **Frontend**: JavaScript/TypeScript (React, Vue.js, Angular), CSS (Tailwind CSS), HTML
 - **Backend**: Node.js (Express.js), PHP (Laravel), Python (Django), Ruby on Rails
