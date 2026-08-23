@@ -14,7 +14,7 @@ Full Stack Web Developer | Currently 4th Year BSIT Student
 ### Things I'm tinkering with
 
 - **Frontend**: JavaScript/TypeScript (React, Vue.js, Angular), CSS (Tailwind CSS), HTML
-- **Backend**: Node.js (Express.js), PHP (Laravel), Python (Django), Ruby on Rails
+- **Backend**: Node.js (Express.js), PHP (Laravel), Python (Django), Ruby on Rails, Go (Gin)
 - **Database**: PostgreSQL, MySQL/MariaDB, SQLite, MongoDB, Redis
 - **DevOps/Cloud**: Bash, Docker, Kubernetes, AWS, Vercel, Railway, Cloudflare, DigitalOcean
 - **Tools**: Linux, Neovim, Kitty, Git, GitHub, Figma
