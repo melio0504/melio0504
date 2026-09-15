@@ -14,10 +14,10 @@ Full Stack Web Developer | Currently 4th Year BSIT Student
 ### Things I'm tinkering with
 
 - **Frontend**: JavaScript/TypeScript (React), CSS (Tailwind CSS), HTML
-- **Backend**: Node.js (Express.js), PHP, Python
+- **Backend**: Node.js (Express.js), PHP, Python, Ruby
 - **Full Stack**: Next.js, Laravel, Ruby on Rails, Django
 - **Database**: PostgreSQL, MySQL/MariaDB, SQLite
-- **DevOps/Cloud**: Bash, Docker, Vercel, Railway, Cloudflare, DigitalOcean
-- **Tools**: Linux (Debian), Neovim, Git, GitHub
+- **DevOps/Cloud**: Docker, Bash, Vercel, Railway, Supabase, Cloudflare, DigitalOcean
+- **Tools**: Linux, Neovim, Git, GitHub
 
 As of March 15, 2025, all my commits are signed and can be verified using [my public key](public_key.asc?raw=true).
