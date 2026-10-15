@@ -21,4 +21,4 @@ Full Stack Web Developer | Currently 4th Year BSIT Student
 - **Cloud & Hosting**: Cloudflare, DigitalOcean, Vercel
 - **Systems & Tools**: Linux, Neovim, Git, GitHub
 
-Since March 15, 2025, all my git commits have been cryptographically signed using my GPG key and can be verified using [my public key](public_key.asc?raw=true).
+Since March 15, 2025, all my commits have been cryptographically signed using my GPG key and can be verified using [my public key](public_key.asc?raw=true).
