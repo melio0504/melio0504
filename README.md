@@ -19,6 +19,6 @@ Full Stack Web Developer | Currently 4th Year BSIT Student
 - **Database**: PostgreSQL, MySQL, MariaDB, SQLite
 - **DevOps & Automation**: Docker, Bash, Github Actions
 - **Cloud & Hosting**: Cloudflare, DigitalOcean, Vercel
-- **Systems & Tools**: Linux, Neovim, Git, GitHub
+- **Systems & Tools**: Linux, Neovim, Tmux, Git, GitHub
 
 Since March 15, 2025, all my git commits have been cryptographically signed and can be verified using [my public key](public_key.asc?raw=true).
