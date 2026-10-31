@@ -2,7 +2,7 @@
 
 ## Hi there! My name is Romelio
 
-Full Stack Web Developer | Currently 4th Year BSIT Student
+Software Developer | Currently 4th Year BSIT Student
 
 ### A few things about me
 
@@ -13,12 +13,13 @@ Full Stack Web Developer | Currently 4th Year BSIT Student
 
 ### Things I'm tinkering with
 
+- **Systems**: C, C++, Rust
 - **Frontend**: JavaScript/TypeScript (React), CSS (Tailwind CSS), HTML
 - **Backend**: Node.js (Express.js), PHP, Python, Ruby, Go
 - **Full Stack**: Next.js, Laravel, Django, Ruby on Rails
 - **Database**: PostgreSQL, MySQL, MariaDB, SQLite
 - **DevOps & Automation**: Docker, Bash, Github Actions
 - **Cloud & Hosting**: Cloudflare, DigitalOcean, Vercel
-- **Systems & Tools**: Linux, Neovim, Tmux, Git, GitHub
+- **Systems & Tools**: Linux, Neovim, Tmux, GCC, Clang, GNU Make, Git, GitHub
 
 Since March 15, 2025, all my git commits have been cryptographically signed and can be verified using [my public key](public_key.asc?raw=true).
